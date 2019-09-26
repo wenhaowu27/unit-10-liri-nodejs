@@ -1,0 +1,27 @@
+{
+  "name": "unit-10-liri-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "liri.js",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "dotenv": "^8.1.0",
+    "moment": "^2.24.0",
+    "node-spotify-api": "^1.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wenhaowu27/unit-10-liri-nodejs.git"
+  },
+  "keywords": [],
+  "author": "Wenhao Wu <wenhaow@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wenhaowu27/unit-10-liri-nodejs/issues"
+  },
+  "homepage": "https://github.com/wenhaowu27/unit-10-liri-nodejs#readme"
+}
