@@ -1911,3 +1911,446 @@ preview song: https://p.scdn.co/mp3-preview/8d1287b933d37b96943a5041ebcd46c328c9
 album: I Want It That Way
 artist(s): Yshop
 *****************************
+Name of the venue: "THEATRE CLAUDE DEBUSSY"
+Venue location:
+ Country: "France"
+Region: "France"
+City: "Cannes"
+Date of the Event: "2019-10-02T20:26:03-07:00"
+========================================================
+**********SONG INFO*********
+0
+song name: Fire and Rain
+preview song: https://p.scdn.co/mp3-preview/facca1f85f4ef20afa376f91ca8e2276b157d421?cid=3f4fe055d1c54164a820e1894ef3d2af
+album: Sweet Baby James
+artist(s): James Taylor
+*****************************
+**********SONG INFO*********
+1
+song name: Carolina in My Mind
+preview song: https://p.scdn.co/mp3-preview/f2e94a843848d24e8ea96b75c582594ba794b8fc?cid=3f4fe055d1c54164a820e1894ef3d2af
+album: Greatest Hits
+artist(s): James Taylor
+*****************************
+**********SONG INFO*********
+2
+song name: Sweet Baby James
+preview song: https://p.scdn.co/mp3-preview/b915a4b714596b085dae0d88cdb494303ed23883?cid=3f4fe055d1c54164a820e1894ef3d2af
+album: Sweet Baby James
+artist(s): James Taylor
+*****************************
+**********SONG INFO*********
+3
+song name: You've Got a Friend
+preview song: https://p.scdn.co/mp3-preview/3cfbac44834ce0e74f6cb42a2239cedae9b1f2ed?cid=3f4fe055d1c54164a820e1894ef3d2af
+album: Mud Slide Slim and the Blue Horizon
+artist(s): James Taylor
+*****************************
+**********SONG INFO*********
+4
+song name: How Sweet It Is (To Be Loved by You)
+preview song: https://p.scdn.co/mp3-preview/fd4f09611e727c11ea45229480ddb05acebfab77?cid=3f4fe055d1c54164a820e1894ef3d2af
+album: Gorilla
+artist(s): James Taylor
+*****************************
+**********SONG INFO*********
+5
+song name: Mexico
+preview song: https://p.scdn.co/mp3-preview/b06014f8940550d42d8406ecae27c28626526f2b?cid=3f4fe055d1c54164a820e1894ef3d2af
+album: Gorilla
+artist(s): James Taylor
+*****************************
+**********SONG INFO*********
+6
+song name: Your Smiling Face
+preview song: https://p.scdn.co/mp3-preview/73345f373382a094c02c242301e985e2600503bb?cid=3f4fe055d1c54164a820e1894ef3d2af
+album: JT
+artist(s): James Taylor
+*****************************
+**********SONG INFO*********
+7
+song name: Country Road
+preview song: https://p.scdn.co/mp3-preview/cdcb60cddacbe17bd6010dfa5b9cd94b70a652bc?cid=3f4fe055d1c54164a820e1894ef3d2af
+album: Sweet Baby James
+artist(s): James Taylor
+*****************************
+**********SONG INFO*********
+8
+song name: Your Smiling Face
+preview song: https://p.scdn.co/mp3-preview/c68fdd392f6f8f0486652d6b7a8d54d827f48ba5?cid=3f4fe055d1c54164a820e1894ef3d2af
+album: The Essential James Taylor
+artist(s): James Taylor
+*****************************
+**********SONG INFO*********
+9
+song name: Carolina In My Mind - Remastered
+preview song: null
+album: James Taylor
+artist(s): James Taylor
+*****************************
+**********SONG INFO*********
+10
+song name: Copperline
+preview song: https://p.scdn.co/mp3-preview/e5e6ca7023b44bb1c775497a3a067c73cc80408d?cid=3f4fe055d1c54164a820e1894ef3d2af
+album: New Moon Shine
+artist(s): James Taylor
+*****************************
+**********SONG INFO*********
+11
+song name: Something in the Way She Moves
+preview song: https://p.scdn.co/mp3-preview/c60d744b102776cfbe82c149b95733e7071e8678?cid=3f4fe055d1c54164a820e1894ef3d2af
+album: Greatest Hits
+artist(s): James Taylor
+*****************************
+**********SONG INFO*********
+12
+song name: Change
+preview song: https://p.scdn.co/mp3-preview/73a4ced72d48c125888e703f4c1cb54b5398956f?cid=3f4fe055d1c54164a820e1894ef3d2af
+album: Voicenotes
+artist(s): Charlie Puth
+*****************************
+**********SONG INFO*********
+13
+song name: You've Got a Friend
+preview song: https://p.scdn.co/mp3-preview/3cfbac44834ce0e74f6cb42a2239cedae9b1f2ed?cid=3f4fe055d1c54164a820e1894ef3d2af
+album: Greatest Hits
+artist(s): James Taylor
+*****************************
+**********SONG INFO*********
+14
+song name: Shower the People
+preview song: https://p.scdn.co/mp3-preview/88f3b2a589620a07ccf33e0c1acd0a12888ae1d4?cid=3f4fe055d1c54164a820e1894ef3d2af
+album: In the Pocket
+artist(s): James Taylor
+*****************************
+**********SONG INFO*********
+15
+song name: Mexico
+preview song: https://p.scdn.co/mp3-preview/ce3cf2009cfc1b0ffa2844e5fd03a57de4102e8c?cid=3f4fe055d1c54164a820e1894ef3d2af
+album: Greatest Hits
+artist(s): James Taylor
+*****************************
+**********SONG INFO*********
+16
+song name: Carolina In My Mind
+preview song: https://p.scdn.co/mp3-preview/d6eea219885cf66f108395cd51031d0a928b381d?cid=3f4fe055d1c54164a820e1894ef3d2af
+album: James Taylor Live
+artist(s): James Taylor
+*****************************
+**********SONG INFO*********
+17
+song name: You Can Close Your Eyes
+preview song: https://p.scdn.co/mp3-preview/d78cd571cddf06a294b6f3296882aa84f808c41b?cid=3f4fe055d1c54164a820e1894ef3d2af
+album: Mud Slide Slim and the Blue Horizon
+artist(s): James Taylor
+*****************************
+**********SONG INFO*********
+18
+song name: October Road
+preview song: https://p.scdn.co/mp3-preview/2fee09555fd4e1b3a2713ad3de12f8f6f49fc281?cid=3f4fe055d1c54164a820e1894ef3d2af
+album: October Road (Special Edition)
+artist(s): James Taylor
+*****************************
+**********SONG INFO*********
+19
+song name: Up On The Roof
+preview song: https://p.scdn.co/mp3-preview/fb75bf009a701ac137a0daa9319a6321819c8082?cid=3f4fe055d1c54164a820e1894ef3d2af
+album: James Taylor Live
+artist(s): James Taylor
+*****************************
+Name of the venue: "THEATRE CLAUDE DEBUSSY"
+Venue location:
+ Country: "France"
+Region: "France"
+City: "Cannes"
+Date of the Event: "2019-10-02T20:29:09-07:00"
+========================================================
+**********SONG INFO*********
+0
+song name: Fire and Rain
+preview song: https://p.scdn.co/mp3-preview/facca1f85f4ef20afa376f91ca8e2276b157d421?cid=3f4fe055d1c54164a820e1894ef3d2af
+album: Sweet Baby James
+artist(s): James Taylor
+*****************************
+**********SONG INFO*********
+1
+song name: Carolina in My Mind
+preview song: https://p.scdn.co/mp3-preview/f2e94a843848d24e8ea96b75c582594ba794b8fc?cid=3f4fe055d1c54164a820e1894ef3d2af
+album: Greatest Hits
+artist(s): James Taylor
+*****************************
+**********SONG INFO*********
+2
+song name: Sweet Baby James
+preview song: https://p.scdn.co/mp3-preview/b915a4b714596b085dae0d88cdb494303ed23883?cid=3f4fe055d1c54164a820e1894ef3d2af
+album: Sweet Baby James
+artist(s): James Taylor
+*****************************
+**********SONG INFO*********
+3
+song name: You've Got a Friend
+preview song: https://p.scdn.co/mp3-preview/3cfbac44834ce0e74f6cb42a2239cedae9b1f2ed?cid=3f4fe055d1c54164a820e1894ef3d2af
+album: Mud Slide Slim and the Blue Horizon
+artist(s): James Taylor
+*****************************
+**********SONG INFO*********
+4
+song name: How Sweet It Is (To Be Loved by You)
+preview song: https://p.scdn.co/mp3-preview/fd4f09611e727c11ea45229480ddb05acebfab77?cid=3f4fe055d1c54164a820e1894ef3d2af
+album: Gorilla
+artist(s): James Taylor
+*****************************
+**********SONG INFO*********
+5
+song name: Mexico
+preview song: https://p.scdn.co/mp3-preview/b06014f8940550d42d8406ecae27c28626526f2b?cid=3f4fe055d1c54164a820e1894ef3d2af
+album: Gorilla
+artist(s): James Taylor
+*****************************
+**********SONG INFO*********
+6
+song name: Your Smiling Face
+preview song: https://p.scdn.co/mp3-preview/73345f373382a094c02c242301e985e2600503bb?cid=3f4fe055d1c54164a820e1894ef3d2af
+album: JT
+artist(s): James Taylor
+*****************************
+**********SONG INFO*********
+7
+song name: Country Road
+preview song: https://p.scdn.co/mp3-preview/cdcb60cddacbe17bd6010dfa5b9cd94b70a652bc?cid=3f4fe055d1c54164a820e1894ef3d2af
+album: Sweet Baby James
+artist(s): James Taylor
+*****************************
+**********SONG INFO*********
+8
+song name: Your Smiling Face
+preview song: https://p.scdn.co/mp3-preview/c68fdd392f6f8f0486652d6b7a8d54d827f48ba5?cid=3f4fe055d1c54164a820e1894ef3d2af
+album: The Essential James Taylor
+artist(s): James Taylor
+*****************************
+**********SONG INFO*********
+9
+song name: Carolina In My Mind - Remastered
+preview song: null
+album: James Taylor
+artist(s): James Taylor
+*****************************
+**********SONG INFO*********
+10
+song name: Copperline
+preview song: https://p.scdn.co/mp3-preview/e5e6ca7023b44bb1c775497a3a067c73cc80408d?cid=3f4fe055d1c54164a820e1894ef3d2af
+album: New Moon Shine
+artist(s): James Taylor
+*****************************
+**********SONG INFO*********
+11
+song name: Something in the Way She Moves
+preview song: https://p.scdn.co/mp3-preview/c60d744b102776cfbe82c149b95733e7071e8678?cid=3f4fe055d1c54164a820e1894ef3d2af
+album: Greatest Hits
+artist(s): James Taylor
+*****************************
+**********SONG INFO*********
+12
+song name: Change
+preview song: https://p.scdn.co/mp3-preview/73a4ced72d48c125888e703f4c1cb54b5398956f?cid=3f4fe055d1c54164a820e1894ef3d2af
+album: Voicenotes
+artist(s): Charlie Puth
+*****************************
+**********SONG INFO*********
+13
+song name: You've Got a Friend
+preview song: https://p.scdn.co/mp3-preview/3cfbac44834ce0e74f6cb42a2239cedae9b1f2ed?cid=3f4fe055d1c54164a820e1894ef3d2af
+album: Greatest Hits
+artist(s): James Taylor
+*****************************
+**********SONG INFO*********
+14
+song name: Shower the People
+preview song: https://p.scdn.co/mp3-preview/88f3b2a589620a07ccf33e0c1acd0a12888ae1d4?cid=3f4fe055d1c54164a820e1894ef3d2af
+album: In the Pocket
+artist(s): James Taylor
+*****************************
+**********SONG INFO*********
+15
+song name: Mexico
+preview song: https://p.scdn.co/mp3-preview/ce3cf2009cfc1b0ffa2844e5fd03a57de4102e8c?cid=3f4fe055d1c54164a820e1894ef3d2af
+album: Greatest Hits
+artist(s): James Taylor
+*****************************
+**********SONG INFO*********
+16
+song name: Carolina In My Mind
+preview song: https://p.scdn.co/mp3-preview/d6eea219885cf66f108395cd51031d0a928b381d?cid=3f4fe055d1c54164a820e1894ef3d2af
+album: James Taylor Live
+artist(s): James Taylor
+*****************************
+**********SONG INFO*********
+17
+song name: You Can Close Your Eyes
+preview song: https://p.scdn.co/mp3-preview/d78cd571cddf06a294b6f3296882aa84f808c41b?cid=3f4fe055d1c54164a820e1894ef3d2af
+album: Mud Slide Slim and the Blue Horizon
+artist(s): James Taylor
+*****************************
+**********SONG INFO*********
+18
+song name: October Road
+preview song: https://p.scdn.co/mp3-preview/2fee09555fd4e1b3a2713ad3de12f8f6f49fc281?cid=3f4fe055d1c54164a820e1894ef3d2af
+album: October Road (Special Edition)
+artist(s): James Taylor
+*****************************
+**********SONG INFO*********
+19
+song name: Up On The Roof
+preview song: https://p.scdn.co/mp3-preview/fb75bf009a701ac137a0daa9319a6321819c8082?cid=3f4fe055d1c54164a820e1894ef3d2af
+album: James Taylor Live
+artist(s): James Taylor
+*****************************
+Title of the movie: Paddington
+Year the movie came out: 2014
+IMDB Rating of the movie: PG
+Rotten Tomatoes Rating of the movie: 77/100
+Country where the movie was produced: UK, France, USA
+Language of the movie: English
+Plot of the movie: A young Peruvian bear travels to London in search of a home. Finding himself lost and alone at Paddington Station, he meets the kindly Brown family, who offer him a temporary haven.
+Actors in the movie: Tim Downie, Madeleine Worrall, Lottie Steer, Geoffrey Palmer
+========================================================
+**********SONG INFO*********
+0
+song name: Fire and Rain
+preview song: https://p.scdn.co/mp3-preview/facca1f85f4ef20afa376f91ca8e2276b157d421?cid=3f4fe055d1c54164a820e1894ef3d2af
+album: Sweet Baby James
+artist(s): James Taylor
+*****************************
+**********SONG INFO*********
+1
+song name: Sweet Baby James
+preview song: https://p.scdn.co/mp3-preview/b915a4b714596b085dae0d88cdb494303ed23883?cid=3f4fe055d1c54164a820e1894ef3d2af
+album: Sweet Baby James
+artist(s): James Taylor
+*****************************
+**********SONG INFO*********
+2
+song name: Country Road
+preview song: https://p.scdn.co/mp3-preview/cdcb60cddacbe17bd6010dfa5b9cd94b70a652bc?cid=3f4fe055d1c54164a820e1894ef3d2af
+album: Sweet Baby James
+artist(s): James Taylor
+*****************************
+**********SONG INFO*********
+3
+song name: Sweet Baby James
+preview song: https://p.scdn.co/mp3-preview/b915a4b714596b085dae0d88cdb494303ed23883?cid=3f4fe055d1c54164a820e1894ef3d2af
+album: Greatest Hits
+artist(s): James Taylor
+*****************************
+**********SONG INFO*********
+4
+song name: Blossom
+preview song: https://p.scdn.co/mp3-preview/a96b1f18db7071f71bb3f0bafef9345e4ca06922?cid=3f4fe055d1c54164a820e1894ef3d2af
+album: Sweet Baby James
+artist(s): James Taylor
+*****************************
+**********SONG INFO*********
+5
+song name: Sunny Skies
+preview song: https://p.scdn.co/mp3-preview/5e91a5aafcfaaeb43f5da556dbe30c716ffa4698?cid=3f4fe055d1c54164a820e1894ef3d2af
+album: Sweet Baby James
+artist(s): James Taylor
+*****************************
+**********SONG INFO*********
+6
+song name: Anywhere like Heaven
+preview song: https://p.scdn.co/mp3-preview/254895de7c6a013c9cfe0a3fa3b4bbe1fafbbc60?cid=3f4fe055d1c54164a820e1894ef3d2af
+album: Sweet Baby James
+artist(s): James Taylor
+*****************************
+**********SONG INFO*********
+7
+song name: Steamroller
+preview song: https://p.scdn.co/mp3-preview/cbf0e39ed7adbcf62854de23afccd7ed530fd792?cid=3f4fe055d1c54164a820e1894ef3d2af
+album: Sweet Baby James
+artist(s): James Taylor
+*****************************
+**********SONG INFO*********
+8
+song name: Sweet Baby James
+preview song: https://p.scdn.co/mp3-preview/5f742ae6c72a4b68fc9cf3e50d7d868155559368?cid=3f4fe055d1c54164a820e1894ef3d2af
+album: James Taylor Live
+artist(s): James Taylor
+*****************************
+**********SONG INFO*********
+9
+song name: Sweet Baby James - 2019 Remaster
+preview song: https://p.scdn.co/mp3-preview/b4946d46575dda3661d3888231c71422607dd181?cid=3f4fe055d1c54164a820e1894ef3d2af
+album: The Warner Bros. Albums: 1970-1976
+artist(s): James Taylor
+*****************************
+**********SONG INFO*********
+10
+song name: Lo and Behold
+preview song: https://p.scdn.co/mp3-preview/06ae2f468000ff2bf5a5a6e3c10c490ef8211946?cid=3f4fe055d1c54164a820e1894ef3d2af
+album: Sweet Baby James
+artist(s): James Taylor
+*****************************
+**********SONG INFO*********
+11
+song name: Oh, Susannah
+preview song: https://p.scdn.co/mp3-preview/fe5c46e2ba6f86aa6f524d6e4f2e859e5a12e032?cid=3f4fe055d1c54164a820e1894ef3d2af
+album: Sweet Baby James
+artist(s): James Taylor
+*****************************
+**********SONG INFO*********
+12
+song name: Suite for 20 G
+preview song: https://p.scdn.co/mp3-preview/52d89e16c4e59522f32dc13a8c38a74737c3cda6?cid=3f4fe055d1c54164a820e1894ef3d2af
+album: Sweet Baby James
+artist(s): James Taylor
+*****************************
+**********SONG INFO*********
+13
+song name: Oh Baby, Don't You Loose Your Lip on Me
+preview song: https://p.scdn.co/mp3-preview/d36c7c496e1b05ad95ff9d8ed23944ca6a28c4d0?cid=3f4fe055d1c54164a820e1894ef3d2af
+album: Sweet Baby James
+artist(s): James Taylor
+*****************************
+**********SONG INFO*********
+14
+song name: Sweet Baby James
+preview song: null
+album: Live At The Troubadour
+artist(s): Carole King
+*****************************
+**********SONG INFO*********
+15
+song name: Sweet Baby James - Live At The Colonial Theatre / 2007
+preview song: null
+album: One Man Band
+artist(s): James Taylor
+*****************************
+**********SONG INFO*********
+16
+song name: Sweet Baby James
+preview song: https://p.scdn.co/mp3-preview/574c7b2f33e8944e71a8384f5e7de80d48b1d9fd?cid=3f4fe055d1c54164a820e1894ef3d2af
+album: Piano Chill: Songs of James Taylor
+artist(s): Christopher Phillips
+*****************************
+**********SONG INFO*********
+17
+song name: Sweet Baby James (Instrumental)
+preview song: https://p.scdn.co/mp3-preview/929115eceaca23dc280f1e1024d4eb69319fe14f?cid=3f4fe055d1c54164a820e1894ef3d2af
+album: Instrumental Guitar: When a Man Loves a Woman
+artist(s): The O'Neill Brothers Group
+*****************************
+**********SONG INFO*********
+18
+song name: Sweet Baby James - 2019 Remaster
+preview song: https://p.scdn.co/mp3-preview/b4946d46575dda3661d3888231c71422607dd181?cid=3f4fe055d1c54164a820e1894ef3d2af
+album: Sweet Baby James (2019 Remaster)
+artist(s): James Taylor
+*****************************
+**********SONG INFO*********
+19
+song name: Sweet Baby James
+preview song: null
+album: Changes
+artist(s): The Seldom Scene
+*****************************
